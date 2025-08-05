@@ -46,4 +46,6 @@ git add .
 
 ```
 h20 h**2
+```html
 mc<sup>2</sup>
+```
