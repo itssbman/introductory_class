@@ -40,6 +40,7 @@ git add index.html
 ```
 git add index.html style.css
 ```
+h20 h**2
 ```
 git add .
 
